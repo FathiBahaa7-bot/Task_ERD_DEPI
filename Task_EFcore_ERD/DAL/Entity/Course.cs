@@ -14,6 +14,7 @@ namespace Task_EFcore_ERD.DAL.Entity
 
         public  double Duration { get; set; }// مده الكورس 
 
+
         /*[ForeignKey("topics")]
         public int IDtop { get; set; }
         */
